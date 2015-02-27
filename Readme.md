@@ -14,7 +14,7 @@ good instructions for setup here:
 
 https://github.com/ryandotsmith/null-buildpack
 
-For scheduling take a loot at Heroku Scheduler here:
+For scheduling take a look at Heroku Scheduler here:
 
 https://devcenter.heroku.com/articles/scheduler
 
